@@ -1,0 +1,22 @@
+export const IMAGES = [
+    {
+        src:'/public/images/fondo1.jpg',
+        alt:'Fondo-1'
+    },
+    {
+        src:'/public/images/fondo2.jpg',
+        alt:'Fondo-2'
+    },
+    {
+        src:'/public/images/bicicle.jpg',
+        alt:'Bicicle'
+    },
+    {
+        src:'/public/images/cave.jpg',
+        alt:'Cave'
+    },
+    {
+        src:'/public/images/Parrot.jpg',
+        alt:'Parrot'
+    },
+];
